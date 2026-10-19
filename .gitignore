@@ -1,0 +1,16 @@
+target/
+_build/
+deps/
+doc/
+bin/
+obj/
+tests/bin/
+tests/obj/
+.dart_tool/
+node_modules/
+vendor/
+pubspec.lock
+Cargo.lock
+mix.lock
+composer.lock
+*.nupkg
